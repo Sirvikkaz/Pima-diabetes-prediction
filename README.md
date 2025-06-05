@@ -1,6 +1,7 @@
 This repository contains a **single Jupyter notebook** for predicting diabetes risk using the Pima Indians Diabetes Database. The project implements and compares various machine learning algorithms (Logistic Regression, Random Forest, XGBoost) to identify the most effective approach for diabetes classification.
             
 ## 📦 Project Structure
+```
 
 DIABETES PREDICTION/
 ├── Data/
@@ -14,6 +15,7 @@ DIABETES PREDICTION/
 │   └── Feature importances (barh plot)
 ├── README.md                 
 └── requirements.txt
+```
 
 # 🩺 Pima Diabetes Prediction
 
