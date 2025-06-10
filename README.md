@@ -3,7 +3,7 @@ This repository contains a **single Jupyter notebook** for predicting diabetes r
 ## 📦 Project Structure
 ```
 
-DIABETES PREDICTION/
+Pima-diabetes-prediction/
 ├── Data/
 │   └── diabetes.csv
 ├── main.ipynb                  # Single notebook with EDA, preprocessing, modeling, and evaluation
@@ -103,7 +103,7 @@ While this tool shows promise for diabetes screening, it should complement, not 
 ### Installation
 ```bash
 git clone https://github.com/Sirvikkaz/Pima-diabetes-prediction.git
-cd DIABETES PREDICTION
+cd Pima-diabetes-prediction
 pip install -r requirements.txt
 ```
 ### Launching
